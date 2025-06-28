@@ -3,7 +3,8 @@ package pt.personal.cats.service
 import pt.personal.cats.model.Cat
 import pt.personal.cats.model.Vote
 import pt.personal.cats.model.VoteResponse
-import java.util.*
+import java.util.Collections
+import java.util.UUID
 
 class CatsService {
 
