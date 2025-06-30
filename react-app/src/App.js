@@ -27,7 +27,7 @@ function App() {
     setTimeout(() => {
       fetchCat();
       setMessage("");
-    }, 1000);
+    }, 5000);
   }
 
   async function fetchVotes() {
